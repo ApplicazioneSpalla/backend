@@ -1,0 +1,22 @@
+{
+  "name": "spalla_api",
+  "version": "0.0.1",
+  "description": "API per Applicazione Liceo Ariosto Spallanzani",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ApplicazioneSpalla/backend.git"
+  },
+  "author": "Riccardo Spadaccini & Francesco Negri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ApplicazioneSpalla/backend/issues"
+  },
+  "homepage": "https://github.com/ApplicazioneSpalla/backend",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
